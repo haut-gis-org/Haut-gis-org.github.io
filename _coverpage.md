@@ -9,4 +9,4 @@
 - We will program.
 
 [GitHub](https://github.com/haut-gis-org)
-[Get Started](quickstart.md)
+[About](about.md)
