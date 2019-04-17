@@ -6,7 +6,7 @@
 > A dynamic and exploratory college student development team
 
 - We will program.
-- We will program.
+- We will map.
 
 [GitHub](https://github.com/haut-gis-org)
 [About](about.md)
